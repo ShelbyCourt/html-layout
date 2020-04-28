@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+  }
+
+  .column {
+    float: left;
+    height: 300px; 
+  }
+  
+  .left, .right {
+    width: 15%;
+    height: 85vh;
+  }
+  
+  .middle {
+    width: 70%;
+    height: 85vh;
+  }
+  
+  .outer-box {
+    height: 15vh;
+    width: vw;
+    background-color: darkgray;
+}
+
+footer {
+    background-color: darkgray;
+    width: 70%;
+}
+
+#footer-bottom {
+    position: absolute;
+    bottom: 0;
+}
+
