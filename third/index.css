@@ -1,0 +1,68 @@
+
+
+#navbar {
+    background-color: lightgray;
+    position: fixed; 
+    align-self: center;
+    padding: 20px;
+    top: 0; 
+    width: 100%; 
+    height: 60px;
+    transition: top 0.3s; 
+  }
+  
+  #navbar a {
+    float: left;
+    display: block;
+    color: white;
+    padding: 15px;
+    text-decoration: none;
+  }
+  
+  #navbar a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+
+a{
+background-color: cornflowerblue;
+color: black;
+}
+
+p {
+    padding: 50px;
+    margin-top: 200px;
+    margin-bottom: 100px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 24px;
+
+}
+
+.rectangle {
+    width: 100vw;
+    height: 10vh;
+    position: relative;
+    background: cornflowerblue;
+  }
+
+  .rectangle2 {
+    width: 100vw;
+    height: 10vh;
+    position: relative;
+    background:rgb(12, 226, 208);
+  }
+
+  .rectangle3 {
+    width: 100vw;
+    height: 10vh;
+    position: relative;
+    background: greenyellow;
+  }
+
+  .rectangle4 {
+    width: 100vw;
+    height: 10vh;
+    position: relative;
+    background: yellow;
+  }
